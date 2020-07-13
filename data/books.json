@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Vingt mille lieues sous les mers",
+        "author": "Jules Vernes",
+        "description": "Très bon livre",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/91tx5M+hBLL.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Le seigneur des anneaux",
+        "author": "J.R.R. Tolkien",
+        "description": "Très très bon livres",
+        "image": "https://static.fnac-static.com/multimedia/Images/FD/Comete/123445/CCP_IMG_ORIGINAL/1608701.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Harry Potter",
+        "author": "J.K. Rowling",
+        "description": "Livre sur la vie d'un sorcier",
+        "image": "https://media.gqmagazine.fr/photos/5ea817a8cab184000870fc22/master/pass/harry-potter.png"
+    }
+]
